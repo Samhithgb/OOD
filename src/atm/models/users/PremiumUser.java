@@ -6,7 +6,6 @@ import atm.interfaces.User;
 public class PremiumUser implements User {
     @Override
     public void getName() {
-
     }
 
     @Override
