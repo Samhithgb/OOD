@@ -1,4 +1,4 @@
-package bookingsystem;
+package bookingsystem.interfaces;
 
 public interface PaymentOption {
     public String getUrl();

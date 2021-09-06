@@ -1,4 +1,4 @@
-package bookingsystem;
+package bookingsystem.model;
 
 public interface Location {
     public String getCity();

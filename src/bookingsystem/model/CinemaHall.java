@@ -1,6 +1,8 @@
-package bookingsystem;
+package bookingsystem.model;
 
-public class CinemaHall {
+import bookingsystem.interfaces.SearchableItem;
+
+public class CinemaHall implements SearchableItem {
     private String hallId;
     private String name;
     private Seats[][] layout;

@@ -1,4 +1,6 @@
-package bookingsystem;
+package bookingsystem.model;
+
+import bookingsystem.interfaces.PaymentOption;
 
 import java.util.List;
 

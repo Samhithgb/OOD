@@ -1,4 +1,4 @@
-package bookingsystem;
+package bookingsystem.model;
 
 import java.sql.Time;
 
