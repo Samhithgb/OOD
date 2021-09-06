@@ -5,7 +5,7 @@ import java.sql.Time;
 public class Show {
     String showId;
     String movieId;
-    String cinemaHallId;
+    CinemaHall cinemaHall;
     Time time;
 
     float[][] priceLayout;
